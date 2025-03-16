@@ -1,3 +1,6 @@
+# Preview
+OldBIOS
+![Image](https://github.com/user-attachments/assets/6d926d8a-0149-4faa-a52e-d95e51893af7)
 # Tutorial
 To use these themes on your GRand Unified Bootloader (more commonly known as GRUB), the tutorial is right here.
 1. Download the themes you would like to apply (Wuthering Weilinai, OldBIOS etc.)
