@@ -6,6 +6,6 @@ To use these themes on your GRand Unified Bootloader (more commonly known as GRU
 5. Edit your grub config with a text editor (either NANO or gedit) with root privileges too, the config is located in /etc/default/grub (sudo nano/gedit /etc/default/grub)
 6. Scroll all the way down till you see "GRUB_THEME=/path/to/theme".
 7. Change "/path/to/theme" with "/usr/share/grub/themes/your-theme/theme.txt"
-8. Press CTRL+O, Y and then CTRL+X
+8. Press CTRL+O, Y and then CTRL+X (with NANO, on gedit you just press CTRL+S)
 9. Update GRUB with sudo update-grub or sudo grub-mkconfig -o /boot/grub/grub.cfg
 10. Reboot and you will see your theme!
