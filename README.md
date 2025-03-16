@@ -1,6 +1,14 @@
 # Preview
 OldBIOS
 ![Image](https://github.com/user-attachments/assets/6d926d8a-0149-4faa-a52e-d95e51893af7)
+CrossGRUB
+![Image](https://github.com/user-attachments/assets/abf33b9e-1afc-459d-939c-33fe917935a8)
+Navi
+![Image](https://github.com/user-attachments/assets/116fcfa8-9433-4418-843b-578341c37152)
+Wuthering Weilinai
+![Image](https://github.com/user-attachments/assets/f6a9d41a-eafe-4eff-a344-678ea8ece33e)
+Cybervero
+![Image](https://github.com/user-attachments/assets/99af57f8-05fe-40fd-9724-01160c303a9c)
 # Tutorial
 To use these themes on your GRand Unified Bootloader (more commonly known as GRUB), the tutorial is right here.
 1. Download the themes you would like to apply (Wuthering Weilinai, OldBIOS etc.)
